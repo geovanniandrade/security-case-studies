@@ -4,7 +4,7 @@ Repositório com estudos de caso, projetos práticos e análises de segurança d
 
 ## Projetos
 
-### 🔴 Pentest + Simulação de Phishing
+### 🔴 Pentest + Simulação de Phishing (Engenharia Social)
 Projeto realizado em ambiente corporativo autorizado, com foco em análise comportamental, vetores de ataque e conscientização em segurança.
 
 ### 🟡 Análise de Riscos
