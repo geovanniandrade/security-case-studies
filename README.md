@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Case Studies
+# 🛡️ Cybersecurity Projects | Pentest, Phishing & Risk Analysis
 
 Repositório com estudos de caso, projetos práticos e análises de segurança desenvolvidos em ambientes autorizados, labs e contextos corporativos com informações sensíveis preservadas.
 
