@@ -10,5 +10,5 @@ Projeto realizado em ambiente corporativo autorizado, com foco em análise compo
 🟡 [Gula Bar — Análise de Riscos](./gula-bar-risk-analysis/)  
 Projeto finalizado com foco em identificação de ativos, ameaças, vulnerabilidades, impacto e recomendações de mitigação.
 
-🟢 Cybersecurity Labs  
+🟢 [Labs de Cybersecurity](https://github.com/geovanniandrade/cybersecurity-labs)  
 Exercícios práticos voltados para exploração controlada, defesa, análise e aprendizado técnico.
