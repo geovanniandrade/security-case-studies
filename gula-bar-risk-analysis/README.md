@@ -42,11 +42,14 @@ As informações sensíveis do ambiente avaliado foram preservadas, mantendo o f
 As imagens abaixo representam o ambiente analisado e registros da apresentação do projeto realizada com a equipe e docentes.
 
 <p align="center">
-  <img src="./gula-bar-1.jpg" width="45%" />
-  <img src="./gula-bar-2.jpg" width="45%" />
+  <img src="./gula-bar-1.jpg" width="70%" />
 </p>
 
 <p align="center">
+  <img src="./gula-bar-2.jpg" width="45%" />
   <img src="./gula-bar-3.jpg" width="45%" />
-  <img src="./gula-bar-4.jpg" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./gula-bar-4.jpg" width="60%" />
 </p>
