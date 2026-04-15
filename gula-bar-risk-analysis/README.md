@@ -32,6 +32,14 @@ A análise foi conduzida com base na identificação de cenários de risco, aval
 ### ✅ Resultado
 O projeto permitiu consolidar uma visão estruturada dos riscos do ambiente avaliado, apoiar a tomada de decisão na priorização de ações corretivas e fortalecer a postura de segurança por meio de recomendações práticas de mitigação.
 
+## 🧩 Skills aplicadas
+
+- Análise de riscos
+- Identificação de vulnerabilidades
+- Avaliação de impacto (CIA)
+- Pensamento analítico em segurança
+- Documentação técnica
+
 ### 🔒 Observação
 As informações sensíveis do ambiente avaliado foram preservadas, mantendo o foco na abordagem técnica e metodológica do projeto.
 
